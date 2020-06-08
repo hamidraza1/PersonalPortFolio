@@ -1,0 +1,10 @@
+.rightCol {
+  background-color: #8191a0;
+  color: white;
+  padding: 2em;
+  border-radius: 10px;
+}
+.avatar {
+  height: 250px;
+  border-radius: 50%;
+}
