@@ -33,8 +33,24 @@ class Cards extends Component {
         </CardTitle>
         <CardText>{this.props.projectDescription}</CardText>
         <CardActions border>
-          <Button colored>GitHub</Button>
-          <Button colored>Live Demo</Button>
+          <Button colored>
+            <a
+              style={{ color: "#3F51B7", textDecoration: "none" }}
+              href={this.props.Github}
+              target="blank"
+            >
+              Github
+            </a>
+          </Button>
+          <Button colored>
+            <a
+              style={{ color: "#3F51B7", textDecoration: "none" }}
+              href={this.props.LiveDemo}
+              target="blank"
+            >
+              Live Demo
+            </a>
+          </Button>
         </CardActions>
         <CardMenu style={{ color: "#fff" }}>
           <IconButton name="share" />

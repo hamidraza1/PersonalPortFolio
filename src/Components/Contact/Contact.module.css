@@ -8,9 +8,9 @@
   padding-top: 2em;
 }
 .contactGrid {
-  background: rgb(178, 198, 201);
-  background: -webkit-linear-gradient(to right, #455f7a, #bdc3c7);
-  background: linear-gradient(to right, #455f7a, #bdc3c7);
+  background: #bdc3c7;
+  background: -webkit-linear-gradient(to right, #3a4b5c, #adb4ba);
+  background: linear-gradient(to right, #3a4b5c, #adb4ba);
   color: black;
   width: 80%;
   height: 550px;

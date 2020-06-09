@@ -12,10 +12,9 @@ class Contact extends Component {
             <h2>Hamid Raza</h2>
             <img className={classes.avatar} src={ProfilePic} alt="avatr" />
             <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              sagittis pellentesque lacus eleifend lacinia.Lorem ipsum dolor sit
-              amet, consectetur adipiscing elit. Mauris sagittis pellentesque
-              lacus eleifend lacinia...
+              I am here to answer any question you may have. Reach out to me and
+              I will respond as soon as I can. Even if there is something you
+              want to know and can't find it here, don't hesitate to contact me.
             </p>
           </Cell>
           <Cell col={6}>

@@ -9,7 +9,11 @@ import Skills from "./Skills/Skills";
 class Resume extends Component {
   render() {
     return (
-      <div style={{ backgroundColor: "rgba(0, 0, 0, 0.15)" }}>
+      <div
+        style={{
+          backgroundColor: "rgba(76, 101, 127, 0.35)",
+        }}
+      >
         <Grid>
           <Cell col={4}>
             <div style={{ textAlign: "center" }}>
@@ -44,16 +48,11 @@ class Resume extends Component {
                 margin: "auto",
               }}
             />
-            <h5 style={{ color: "#833fb2" }}>Address:</h5>
-            <p style={{ marginLeft: "25px" }}>
-              Meistersingerstraße 48A,45307,Essen,Germany
-            </p>
             <h5 style={{ color: "#833fb2" }}>Phone:</h5>
             <p style={{ marginLeft: "25px" }}>+49 157-824 73557</p>
             <h5 style={{ color: "#833fb2" }}>Email:</h5>
             <p style={{ marginLeft: "25px" }}>razahamidude95@gmail.com</p>
-            <h5 style={{ color: "#833fb2" }}>Web:</h5>
-            <p style={{ marginLeft: "25px" }}>mywebsite.com</p>
+
             <hr
               style={{
                 borderTop: "3px solid #833fb2",

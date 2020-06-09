@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
 import classes from "./LandingPage.module.css";
-import ProfilePic from "../Images/pppp.jpg";
+import ProfilePic1 from "../Images/pppp1.png";
 
 class LandingPage extends Component {
   render() {
@@ -9,7 +9,7 @@ class LandingPage extends Component {
       <div style={{ width: "100%", margin: "auto" }}>
         <Grid className={classes.landingGrid}>
           <Cell col={12}>
-            <img className={classes.avatar} src={ProfilePic} alt="avatr" />
+            <img className={classes.avatar} src={ProfilePic1} alt="avatr" />
             <div className={classes.bannerText}>
               <h1>Web Developer</h1>
               <hr />
@@ -25,7 +25,7 @@ class LandingPage extends Component {
                 </a>
                 {/* Github */}
                 <a
-                  href="https://www.linkedin.com/in/raza-hamid/"
+                  href="https://github.com/hamidraza1"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
