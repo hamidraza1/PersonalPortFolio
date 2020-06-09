@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PersonalPortFolio/static/css/main.2e5c531d.chunk.css",
+    "main.js": "/PersonalPortFolio/static/js/main.3fc5b80d.chunk.js",
+    "main.js.map": "/PersonalPortFolio/static/js/main.3fc5b80d.chunk.js.map",
+    "runtime-main.js": "/PersonalPortFolio/static/js/runtime-main.fac8d704.js",
+    "runtime-main.js.map": "/PersonalPortFolio/static/js/runtime-main.fac8d704.js.map",
+    "static/css/2.e4346227.chunk.css": "/PersonalPortFolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.2ca92f48.chunk.js": "/PersonalPortFolio/static/js/2.2ca92f48.chunk.js",
+    "static/js/2.2ca92f48.chunk.js.map": "/PersonalPortFolio/static/js/2.2ca92f48.chunk.js.map",
+    "index.html": "/PersonalPortFolio/index.html",
+    "precache-manifest.f66854bd8c1597ded9cda29cc2336709.js": "/PersonalPortFolio/precache-manifest.f66854bd8c1597ded9cda29cc2336709.js",
+    "service-worker.js": "/PersonalPortFolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/PersonalPortFolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.2e5c531d.chunk.css.map": "/PersonalPortFolio/static/css/main.2e5c531d.chunk.css.map",
+    "static/js/2.2ca92f48.chunk.js.LICENSE.txt": "/PersonalPortFolio/static/js/2.2ca92f48.chunk.js.LICENSE.txt",
+    "static/media/pppp.jpg": "/PersonalPortFolio/static/media/pppp.958cdb17.jpg",
+    "static/media/pppp1.png": "/PersonalPortFolio/static/media/pppp1.863a8360.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fac8d704.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.2ca92f48.chunk.js",
+    "static/css/main.2e5c531d.chunk.css",
+    "static/js/main.3fc5b80d.chunk.js"
+  ]
+}
