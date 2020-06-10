@@ -11,7 +11,10 @@ function App() {
         <Header
           className={classes.headercolor}
           title={
-            <Link style={{ textDecoration: "none", color: "white" }} to="/">
+            <Link
+              style={{ textDecoration: "none", color: "white" }}
+              to="/PersonalPortFolio"
+            >
               My Portfolio
             </Link>
           }
@@ -26,7 +29,10 @@ function App() {
         </Header>
         <Drawer
           title={
-            <Link style={{ textDecoration: "none", color: "Black" }} to="/">
+            <Link
+              style={{ textDecoration: "none", color: "Black" }}
+              to="/PersonalPortFolio"
+            >
               My Portfolio
             </Link>
           }
